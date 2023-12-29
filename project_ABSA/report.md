@@ -1,3 +1,9 @@
+## Структура проекта
+
+- [https://github.com/thddbptnsndshs/nlp_homeworks/blob/main/project_ABSA/ner%2Babsa.ipynb](ner+absa.ipynb): эксперименты с обучением моделей, анализ ошибок
+- [https://github.com/thddbptnsndshs/nlp_homeworks/blob/main/project_ABSA/train_on_whole_dataset.ipynb](train_on_whole_dataset.ipynb) - создание второй версии модели, обученной на train+dev
+- [https://github.com/thddbptnsndshs/nlp_homeworks/blob/main/project_ABSA/evaluation.ipynb](evaluation.ipynb) - тетрадка для подсчета метрик на тестовых данных
+
 ## Инструкция по запуску на тестовых данных
 
 Для подсчета метрик на тестовых данных нужно запустить тетрадку [evaluation.ipynb](https://github.com/thddbptnsndshs/nlp_homeworks/blob/main/project_ABSA/evaluation.ipynb), поменяв в ячейке "Пути к файлам" названия файлов на необходимые.
